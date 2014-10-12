@@ -1,0 +1,2 @@
+qmcs.articles.res
+=================
